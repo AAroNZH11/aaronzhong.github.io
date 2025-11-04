@@ -1,8 +1,8 @@
-# Plain Template
-We are using the template from https://github.com/MXHX7199/MXHX7199.github.io
+# Welcome to Aaron's Site 👋
 
-##Comments below from the author of the template:
+Hey there! I’m **Aaron Zhong**, currently studying **Biostatistics (Data Science)** at the **University of Washington, Seattle**.  
+I enjoy working with data, building models, and turning messy datasets into something meaningful — or at least less confusing.  
 
-If you are using it, I'd be happy to hear from you! You can drop me a line at ([link](https://mavroud.is))!
+When I’m not coding, you might find me biking around Seattle or trying out new recipes.  
 
-You should copy this repo to your github account, and then modify it with your info!
+💌 Contact me anytime: **aaronz02@uw.edu**
